@@ -13,6 +13,7 @@
 		DD28951628A18F3500FE3D10 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD28951428A18F3500FE3D10 /* Main.storyboard */; };
 		DD28951828A18F3900FE3D10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD28951728A18F3900FE3D10 /* Assets.xcassets */; };
 		DD28951B28A18F3900FE3D10 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD28951928A18F3900FE3D10 /* LaunchScreen.storyboard */; };
+		DD28952328A19F9000FE3D10 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = DD28952228A19F9000FE3D10 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DD28951728A18F3900FE3D10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DD28951A28A18F3900FE3D10 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD28951C28A18F3900FE3D10 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD28952228A19F9000FE3D10 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				DD28951428A18F3500FE3D10 /* Main.storyboard */,
 				DD28951728A18F3900FE3D10 /* Assets.xcassets */,
 				DD28951928A18F3900FE3D10 /* LaunchScreen.storyboard */,
+				DD28952228A19F9000FE3D10 /* start.txt */,
 				DD28951C28A18F3900FE3D10 /* Info.plist */,
 			);
 			path = "WordScramble-UIKit";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DD28951B28A18F3900FE3D10 /* LaunchScreen.storyboard in Resources */,
+				DD28952328A19F9000FE3D10 /* start.txt in Resources */,
 				DD28951828A18F3900FE3D10 /* Assets.xcassets in Resources */,
 				DD28951628A18F3500FE3D10 /* Main.storyboard in Resources */,
 			);
